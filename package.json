@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-practice",
+  "version": "0.1.0",
+  "description": "Some practice with react and redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trycrmr/react-redux-practice.git"
+  },
+  "author": "trycrmr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trycrmr/react-redux-practice/issues"
+  },
+  "homepage": "https://github.com/trycrmr/react-redux-practice#readme"
+}
