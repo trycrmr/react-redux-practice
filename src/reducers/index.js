@@ -7,4 +7,4 @@ const rootReducer = combineReducers({
   counter
 })
 
-export default counter
+export default rootReducer
